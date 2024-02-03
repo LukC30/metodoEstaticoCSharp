@@ -5,9 +5,7 @@ using System.Windows.Forms;
 
 namespace SUPERCALCULADORA
 {
-	/// <summary>
-	/// Description of MainForm.
-	/// </summary>
+
 	public partial class MainForm : Form
 	{
 		public MainForm()
@@ -140,8 +138,8 @@ namespace SUPERCALCULADORA
 			btnvir.Size = new Size(45,45);
 			btnvir.BackColor = System.Drawing.Color.White;
 			
-			
-			
+			btnenter.Parent = this;
+			btnenter.Text = "Enter";
 			
 		}
 		void MainFormKeyDown(object sender, KeyEventArgs e)
@@ -149,15 +147,8 @@ namespace SUPERCALCULADORA
 			if (e.KeyCode == Keys.NumPad0 || e.KeyCode == Keys.D0) {
 				
 			
-			}
-			
-			
-			
-			
+			}			
 		}
-		
-		
-		
 	}
 }
 
