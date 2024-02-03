@@ -1,0 +1,8 @@
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\obj\Debug\SUPERCALCULADORA.csprojResolveAssemblyReference.cache
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\obj\Debug\SUPERCALCULADORA.MainForm.resources
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\obj\Debug\SUPERCALCULADORA.csproj.GenerateResource.Cache
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\bin\Debug\SUPERCALCULADORA.exe.config
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\bin\Debug\SUPERCALCULADORA.exe
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\bin\Debug\SUPERCALCULADORA.pdb
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\obj\Debug\SUPERCALCULADORA.exe
+C:\Users\Luk\Documents\SharpDevelop Projects\SUPERCALCULADORA\SUPERCALCULADORA\obj\Debug\SUPERCALCULADORA.pdb
